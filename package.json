@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "browserify": "^6.2.0",
     "reactify": "^0.15.2"
   }
 }
